@@ -1,0 +1,8 @@
+Hoomee Kafe adalah salah satu Kafe yang sedang berkembang di Surabaya.
+Kafe ini mempunya beberapa supplier, pegawai yang bertugas sebagai manager dan kasir.
+Sebagai persiapan Manager menyusun menu hidangan dan mendata kapasitas tempat duduknya.
+Selanjutnya pada saat customer datang, pelayan menawarkan menu dan mencatat di kertas, kemudian pelayan menyerahkan kertas pesanan tersebut ke kasir untuk
+dibuatkan form pemesanan pada sistem. 
+Setelah menyerahkan kertas pesanan pada kasir, pelayan menyerahkan kertas tersebut kepada petugas dapur untuk dibuatkan menu yang dipesan.
+Setelah menikmati pesanan, customer melakukan pembayaran ke kasir. Untuk setiap pembelian oleh customer tertentu terdapat fitur potongan harga (diskon) pada billing customer tersebut.
+Kasir wajib melaporkan hasil penjualannya ke Manager tiap hari. Dan Manager meminta laporan pendapatan harian.

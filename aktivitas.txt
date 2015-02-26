@@ -1,0 +1,12 @@
+Aktivitas
+
+Set Harga Jual  -> Manager
+Set Kapasitas Kursi -> Manager
+Pendataan Login -> Manager
+Pendataan Menu -> Manager
+Pendataan Supplier -> Manager
+Pemesanan -> Pegawai Kasir 
+Pembayaran -> Pegawai Kasir
+Laporan Pendapatan Harian -> Pegawai Kasir, Manager
+Laporan Pendapatan -> Manager
+Laporan Trend Penjualan -> Manager

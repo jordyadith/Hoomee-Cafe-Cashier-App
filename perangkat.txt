@@ -1,0 +1,5 @@
+Notebook Dell Alienware M15X
+Intel Core i7-720QM 1.6 GHz (Intel Core i7)
+NVIDIA GeForce GTX 260M - 1024 MB, Core: 550 MHz
+4096 MB - 2x 2048 MByte, DDR3-1333
+Windows 8.1 64bit
