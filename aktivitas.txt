@@ -1,12 +1,13 @@
 Aktivitas
 
-Set Harga Jual  -> Manager
-Set Kapasitas Kursi -> Manager
 Pendataan Login -> Manager
-Pendataan Menu -> Manager
-Pendataan Supplier -> Manager
+Pendataan Database Menu -> Manager
+Melihat Laporan Masuk Barang -> Manager
+Pendataan Masuk Barang -> Pegawai Kasir
 Pemesanan -> Pegawai Kasir 
 Pembayaran -> Pegawai Kasir
 Laporan Pendapatan Harian -> Pegawai Kasir, Manager
-Laporan Pendapatan -> Manager
+Laporan Pendapatan Mingguan -> Manager
+Laporan Pendapatan Bulanan -> Manager
+Laporan Pendapatan Tahunan -> Manager
 Laporan Trend Penjualan -> Manager
