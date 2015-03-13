@@ -1,0 +1,21 @@
+PIC Jumat (Komang)
+PIC Sabtu (Bryan)
+PIC Minggu (Anom)
+
+GENERAL
+-Ganti Background (Minggu)
+-Testing (Minggu)
+-PPT, Dokumen (Minggu)
+-Validation pop-up window (Sabtu)
+-Login error handling (sabtu)
+
+Manager Privilege
+-Form Home Manager (ganti password) (Sabtu)
+-Form Daftar Menu (fitur edit) (Sabtu)
+-Form Laporan Keuangan (Fitur Laporan Harian Bulanan Tahunan, Fitur Cetak Laporan, Data Grid View) (jumat)
+-Form Barang Masuk (fitur edit,laporan) (jumat)
+
+Pegawai Privilege
+-Form Beranda Pemesanan (ganti password) (Sabtu)
+-Form Pemesanan (auto fill text box sub total) (jumat)
+-Form Pembayaran (total, bayar, kembali, insert transaksi final, print struk/selesai pembayaran, NULL transaksi pada meja lalu kembali ke form meja) (jumat)
